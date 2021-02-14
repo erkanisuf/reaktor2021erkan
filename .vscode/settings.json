@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ea02c784-cd81-4764-a664-0cf69d52ec6f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/erkanisufreakt",
+    "appService.deploySubpath": "."
+}
